@@ -1,4 +1,4 @@
-pypiwin32==223
+pypiwin32==300
 absl-py==0.12.0
 altair==4.1.0
 argon2-cffi==20.1.0
